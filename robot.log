@@ -1,0 +1,36 @@
+Jul 26, 2021 10:18:43 AM com.robot.Application main
+INFO: Cannot place!User Enter error.
+Jul 26, 2021 10:18:50 AM com.robot.Application main
+INFO: place 1,2,east
+Jul 26, 2021 10:18:52 AM com.robot.Application main
+INFO: move
+Jul 26, 2021 10:18:53 AM com.robot.Application main
+INFO: move
+Jul 26, 2021 10:18:55 AM com.robot.Application main
+INFO: User Enter error.
+Jul 26, 2021 10:19:01 AM com.robot.Application main
+INFO: left
+Jul 26, 2021 10:19:02 AM com.robot.Application main
+INFO: move
+Jul 26, 2021 10:19:05 AM com.robot.service.RobotController reportRobot
+INFO: OUTPUT: 3, 3, NORTH
+Jul 26, 2021 10:19:05 AM com.robot.Application main
+INFO: report
+Jul 28, 2021 4:19:27 PM com.robot.Application main
+INFO: Cannot place!User Enter Error.
+Jul 28, 2021 4:19:46 PM com.robot.Application main
+INFO: Cannot place!User Enter Error.
+Jul 28, 2021 4:20:35 PM com.robot.Application main
+INFO: place 1,2,east
+Jul 28, 2021 4:20:38 PM com.robot.Application main
+INFO: move
+Jul 28, 2021 4:20:39 PM com.robot.Application main
+INFO: move
+Jul 28, 2021 4:20:42 PM com.robot.Application main
+INFO: left
+Jul 28, 2021 4:20:43 PM com.robot.Application main
+INFO: move
+Jul 28, 2021 4:20:45 PM com.robot.service.RobotController reportRobot
+INFO: OUTPUT: 3, 3, NORTH
+Jul 28, 2021 4:20:45 PM com.robot.Application main
+INFO: report
